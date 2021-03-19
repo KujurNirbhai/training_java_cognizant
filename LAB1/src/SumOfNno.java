@@ -1,4 +1,8 @@
-import java.util.Scanner;
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Sum Of n numbers
+*Date-18/03/2021
+*/import java.util.Scanner;
 
 public class SumOfNno {
 

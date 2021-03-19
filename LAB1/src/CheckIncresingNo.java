@@ -1,4 +1,8 @@
-import java.util.Scanner;
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Check of Increasing No.
+*Date-18/03/2021
+*/import java.util.Scanner;
 
 public class CheckIncresingNo {
 

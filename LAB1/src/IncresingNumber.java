@@ -1,4 +1,8 @@
-
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Check of Increasing no.
+*Date-17/03/2021
+*/
 public class IncresingNumber {
 	public static boolean checkNumber(int number)
 	{

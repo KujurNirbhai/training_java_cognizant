@@ -1,7 +1,7 @@
 /**
 *Name-Nirbhai Kujur
 *Descripyion-Lab1- Traffic signal
-*Date-14/032021
+*Date-14/03/2021
 */
 import java.util.Scanner;
 

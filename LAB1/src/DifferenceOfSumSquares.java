@@ -1,4 +1,8 @@
-
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Difference of Square and Sum of n Number
+*Date-18/03/2021
+*/
 public class DifferenceOfSumSquares {
 	public static int calculateDifference(int n) 
 	{

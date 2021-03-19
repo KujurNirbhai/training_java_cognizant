@@ -1,4 +1,8 @@
-
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- String Assignment
+*Date-14/03/2021
+*/
 public class StringAssignment2 {
 
 	public static void main(String[] args) {

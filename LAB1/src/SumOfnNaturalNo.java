@@ -1,4 +1,8 @@
-
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Sum of n natural no.
+*Date-18/03/2021
+*/
 public class SumOfnNaturalNo {
 	public static int calculateSum(int n) 
 	{

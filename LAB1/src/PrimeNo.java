@@ -1,7 +1,7 @@
 /**
 *Name-Nirbhai Kujur
-*Descripyion-Lab1-PrimeNo
-*Date-14/032021
+*Descripyion-Lab1-Prime No printing
+*Date-14/03/2021
 */
 import java.util.Scanner;
 

@@ -1,3 +1,8 @@
+/**
+*Name-Nirbhai Kujur
+*Descripyion-Lab1- Difference of Square and Sum of n Number
+*Date-18/03/2021
+*/
 import java.util.Scanner;
 
 public class TestDifferenceSquareSum {
